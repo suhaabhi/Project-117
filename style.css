@@ -1,0 +1,27 @@
+body
+{
+    background-color: rgb(80, 8, 45);
+    color:white;
+    border-style: ridge;
+    border-width: 8px;
+    border-color: rgb(255, 255, 255);
+    font-size: 16;
+}
+
+#timer
+{
+    color: white;
+    float: right;
+    margin-right: 10%;
+}
+
+#score
+{
+    float: left;
+}
+
+#sketch_drawn
+{
+    color:aqua;
+    font-style: italic;
+}
